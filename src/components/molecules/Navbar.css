@@ -1,0 +1,35 @@
+.navbar-styled {
+    display: flex;
+    flex-direction: column;
+    width: 259px;
+    min-height: 100vh;
+}
+.navbar-styled h1 {
+    margin-bottom: 20px;
+}
+nav {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    gap: 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+nav button {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 5px;
+    background-color: transparent;
+    border: none;
+    color: #000;
+    cursor: pointer;
+}
+nav button:hover {
+    background-color: #4cbc9a;
+}
+nav button img {
+    width: 20px;
+    height: 20px;
+}

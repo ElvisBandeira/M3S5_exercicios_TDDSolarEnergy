@@ -1,0 +1,11 @@
+.container-styled{
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.meu-conteudo{
+    background-color: #FBF4F4;
+    height: 200px;
+    width: 100%;
+    min-height: 100vh;
+}
